@@ -1,2 +1,2 @@
-# osb-tracker-ios
+# osb-demoapp-ios
 Tracker SDK for iOS platform
